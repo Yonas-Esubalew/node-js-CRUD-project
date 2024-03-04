@@ -1,0 +1,34 @@
+[
+  {
+    "ISBN": "9780061122415",
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "review": "Classic novel that explores racial injustice and moral growth through the eyes of a young girl.",
+    "print_year": 1960,
+    "poster_img": "https://example.com/to-kill-a-mockingbird.jpg"
+  },
+  {
+    "ISBN": "9780141182551",
+    "title": "1984",
+    "author": "George Orwell",
+    "review": "Dystopian novel depicting a totalitarian regime and the struggle for freedom and truth.",
+    "print_year": 1949,
+    "poster_img": "https://example.com/1984.jpg"
+  },
+  {
+    "ISBN": "9780307476463",
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "review": "Coming-of-age novel narrated by a disenchanted teenager struggling with adolescence and society.",
+    "print_year": 1951,
+    "poster_img": "https://example.com/the-catcher-in-the-rye.jpg"
+  },
+  {
+    "ISBN": "9780060256654",
+    "title": "Where the Wild Things Are",
+    "author": "Maurice Sendak",
+    "review": "Children's picture book exploring imagination, emotions, and the wildness within.",
+    "print_year": 1963,
+    "poster_img": "https://example.com/where-the-wild-things-are.jpg"
+  }
+]
