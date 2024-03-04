@@ -6,7 +6,7 @@ const port = 5000;
 // Middleware
 app.use(bodyParser.json());
 // Sample book data
-const books = JSON.parse(fs.readFileSync("./data/Books.json"));
+const books = JSON.parse(fs.readFileSync("./Books.json"));
 // Task 1: Get the book list available in the shop
 app.get("/books", (req, res) => {
   res.status(200).json({
